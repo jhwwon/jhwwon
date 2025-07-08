@@ -25,7 +25,7 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--JAVA-->
-  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  ![Java](https://skillicons.dev/icons?i=java)
   <br/>
   
   
