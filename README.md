@@ -9,8 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a AI Engineer from South Korea.<br/>
-  #### :fire: I aim to become a AI Engineer.<br/>
+  #### :raising_hand: From South Korea 🇰🇷 | Aiming to become an AI Developer 🚀.<br/>
   <br/>
   <br/>
   
@@ -24,8 +23,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <!--JAVA-->
-  ![Java](https://skillicons.dev/icons?i=java)
   <br/>
   
 </div>
