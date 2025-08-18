@@ -29,10 +29,13 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
 <br>
+
+## 📈 Activity Graph
+
+[![HyeWon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhwwon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-<div align="center">
-  
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
-
+<!-- <div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 </div>
+-->
