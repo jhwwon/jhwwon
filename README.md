@@ -32,14 +32,6 @@
 </div>
 
 <div align="center">
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=jhwwon&color=ff69b4&style=for-the-badge)
-
-</div>
-
-<div align="center">
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
