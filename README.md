@@ -35,7 +35,6 @@
 [![HyeWon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhwwon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
-![Profile views](https://komarev.com/ghpvc/?username=jhwwon&color=blueviolet&style=flat-square)
 
 </div>
 
