@@ -1,10 +1,8 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeWon%20Jeong&fontSize=50&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EAAFC8,50:654EA3,100:E1306C&height=300&section=header&text=👩‍💻%20HyeWon%20Jeong&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=20&animation=fadeIn)
 
 </div>
-
-<div align="left">
 
 ## 🙋‍♀️ About Me
 
@@ -28,18 +26,20 @@
 
 <br>
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="jhwwon github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="jhwwon github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
 <br>
 
 ## 🐍 Contribution Graph
 
 ![Snake animation](https://github.com/jhwwon/jhwwon/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 <br>
 
@@ -49,6 +49,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhwwon)
 
 <br>
+
+<div align="center">
 
 ## 👀 Profile Views
 
