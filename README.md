@@ -1,31 +1,63 @@
-<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeWon%20Jeong%20%20%20%)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeWon%20Jeong&fontSize=50&fontAlignY=35&animation=twinkling)
+
 </div>
 
-<div>
-  <!--Body-->
+<div align="center">
+
 ## 🙋‍♀️ About Me
-Hello! I'm a developer currently learning web development.
-I'm passionate about full-stack development using Java and web technologies.
-  
-## 💻 Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-## 🛠️ Tools & Database
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
-  
+**Hello! I'm a developer currently learning web development.**  
+**I'm passionate about full-stack development using Java and web technologies.**
+
+<br>
+
+## 💻 Tech Stack
+
+### 🌐 Languages
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+### 🛠️ Tools & Database
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="jhwwon github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <br>
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/jhwwon/jhwwon/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
-<div align="left">
-![jhwwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 How to Reach Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jhwwon)
+
+<br>
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=jhwwon&color=ff69b4&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
 </div>
