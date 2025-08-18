@@ -24,7 +24,7 @@
 <div align="left">
   
 ### 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&count_private=true&theme=radical)
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&theme=radical)
