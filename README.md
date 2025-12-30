@@ -55,10 +55,14 @@
 <div align="left">
   
 ### 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&count_private=true&theme=radical)
+
+<!-- 깃허브 전체 스탯 카드 -->
+<img src="https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&count_private=true&theme=radical&hide_border=false" alt="JH.WON's GitHub Stats" />
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&theme=radical)
+
+<!-- 주로 사용하는 언어 카드 (슬래시 경로 수정 버전) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 
 </div>
 
