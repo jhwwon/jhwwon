@@ -4,7 +4,7 @@
 
 </div>
 
-## 🙋♀️ About Me
+## 🙋 About Me
 
 **Hello! I'm a developer currently learning web development.**  
 **I'm passionate about full-stack development using Java and web technologies.**
@@ -45,19 +45,6 @@
 
 <br>
 
-<div align="left">
-  
-### 📊 GitHub Status
-
-<!-- 1. 통계 카드 (충돌이 적은 대체 서버 주소 사용) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhwwon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### 💻 Most Used Languages
-
-<!-- 2. 주로 사용하는 언어 카드 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhwwon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <!-- ## 📈 Activity Graph
 
